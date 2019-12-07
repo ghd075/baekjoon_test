@@ -8,7 +8,7 @@
 * [Hello World](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch01/2557.md)
 * [We love Kriiii](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch01/10718.md)
 * [고양이](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch01/10171.md)
-* 개
+* [개](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch01/10172.md)
 * 등록
 * A+B
 * A-B
