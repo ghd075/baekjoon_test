@@ -20,8 +20,8 @@
 
 ### if문
 
-* 두 수 비교하기
-* 시험 성적
-* 윤년
-* 알람 시계
-* 세 수
+* [두 수 비교하기](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch02/1330.md)
+* [시험 성적](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch02/9498.md)
+* [윤년](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch02/2753.md)
+* [알람 시계](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch02/2884.md)
+* [세 수](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch02/10817.md)
