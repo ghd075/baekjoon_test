@@ -25,3 +25,17 @@
 * [윤년](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch02/2753.md)
 * [알람 시계](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch02/2884.md)
 * [세 수](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch02/10817.md)
+  
+### for문
+
+* 구구단
+* A+B -3
+* 합
+* 빠른 A+B
+* N 찍기
+* 기찍 N
+* A+B -7
+* A+B -8
+* 별 찍기 -1
+* 별 찍기 -2
+* X보다 작은 수
