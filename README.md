@@ -28,14 +28,20 @@
   
 ### for문
 
-* 구구단
-* A+B -3
-* 합
-* 빠른 A+B
-* N 찍기
-* 기찍 N
-* A+B -7
-* A+B -8
-* 별 찍기 -1
-* 별 찍기 -2
-* X보다 작은 수
+* [구구단](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/2739.md)
+* [A+B -3](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/10950.md)
+* [합](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/8393.md)
+* [빠른 A+B](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/15552.md)
+* [N 찍기](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/2741.md)
+* [기찍 N](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/2742.md)
+* [A+B -7](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/11021.md)
+* [A+B -8](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/11022.md)
+* [별 찍기 -1](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/2438.md)
+* [별 찍기 -2](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/2439.md)
+* [X보다 작은 수](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/10871.md)
+
+### while문
+
+* A+B -5
+* A+B -4
+* 더하기 사이클
