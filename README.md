@@ -44,4 +44,15 @@
 
 * [A+B -5](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch04/10952.md)
 * [A+B -4](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch04/10951.md)
-* 더하기 사이클
+* [더하기 사이클](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch04/1110.md)
+
+### 1차원 배열
+
+* [최소, 최대]()
+* [최댓값]()
+* [음계]()
+* [숫자의 개수]()
+* [나머지]()
+* [평균]()
+* [OX퀴즈]()
+* [평균은 넘겠지]()
