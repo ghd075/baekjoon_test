@@ -42,6 +42,6 @@
 
 ### while문
 
-* A+B -5
+* [A+B -5](https://github.com/ghd075/baekjoon_test/blob/master/C_Quiz/ch03/10952.md)
 * A+B -4
 * 더하기 사이클
